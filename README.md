@@ -8,7 +8,7 @@ This project is a PCB design for a **Gesture-Based Home Automation** System crea
 
 ## ⚡Circuit Description
 
--**Power Supply Unit :-**
+- **Power Supply Unit :-**
 
 1. HLK-5M05B AC-DC converter provides +5V regulated supply.
 2. Capacitor C1 ensures filtering.
